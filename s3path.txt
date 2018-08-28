@@ -1,0 +1,5 @@
+S3://s3.amazonaws.com/av-demo-codedeploy/codedeploy-demo.zip
+
+https://s3.amazonaws.com/av-demo-codedeploy/codedeploy-demo.zip
+
+s3://av-demo-codedeploy/codedeploy-demo.zip
